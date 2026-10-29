@@ -9,7 +9,6 @@
 header {
   position: fixed;
   width: 100%;
-  z-index: 5;
   background-color: #3b141c;
 }
 
@@ -125,8 +124,8 @@ img {
 .hero-section .hero-image-wrapper {
   max-width: 550px;
   /* height: 550px; */
-  position: relative;
-  z-index: 50;
+  /* position: relative;
+  z-index: 50; */
   margin-top: 100px;
 
   /* overflow: hidden; */
